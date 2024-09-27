@@ -87,7 +87,7 @@ analyze_traffic() {
 
 # Run the analysis function
 analyze_traffic
-
+```
 #### 🗒️ 🗒️ 🗒️ 🗒️Expected Output:
 
 ```txt
